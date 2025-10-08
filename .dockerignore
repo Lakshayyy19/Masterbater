@@ -1,0 +1,13 @@
+coco128
+.gradio
+run_both_without_docker.py
+myenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.ipynb
+.DS_Store
+.env
